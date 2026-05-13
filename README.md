@@ -1,2 +1,2 @@
 # Emectron
-Acorn Electron Emulator with Voxbox emulation
+An Acorn Electron Emulator with Voxbox emulation
